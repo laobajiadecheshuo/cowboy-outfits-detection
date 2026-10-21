@@ -1,4 +1,0 @@
-train: <PROJECT>\train_yolo.txt
-val: <PROJECT>\val_yolo.txt
-nc: 5
-names: ['belt', 'sunglasses', 'boot', 'cowboy_hat', 'jacket']

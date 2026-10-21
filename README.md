@@ -32,6 +32,7 @@
 
 ```
 ├── cowboy-outfits-pytorch.ipynb      # 主 notebook（数据→YOLO 标签→训练→评估→提交）
+├── cowboy-outfits-starter-kit.ipynb  # 比赛官方 starter kit，仅作参考（版权归主办方）
 ├── download_dataset.py               # kagglehub 数据集下载器（需 KAGGLE_API_TOKEN）
 ├── cowboy.yaml                       # ultralytics 数据集配置
 ├── train.json                        # COCO 格式标注

@@ -22,3 +22,4 @@ cowboy_dataset.py
 .learnings/
 .claude/
 __pycache__/
+cowboy.yaml
